@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Buldan Yemek Tarifleri</string>
+    <string name="_1_2_saat_aras">
+     1-2 saat arası
+    </string>
+    <string name="_15_kisilik">
+        15 kişilik
+    </string>
+</resources>
